@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\04EncapsulationExercise\\AnimalFarm\\AnimalFarm\\02AnimalFarm.csproj",
-      "projectName": "02AnimalFarm",
-      "projectPath": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\04EncapsulationExercise\\AnimalFarm\\AnimalFarm\\02AnimalFarm.csproj",
+      "projectUniqueName": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\04EncapsulationExercise\\03ShoppingSpree\\03ShoppingSpree.csproj",
+      "projectName": "03ShoppingSpree",
+      "projectPath": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\04EncapsulationExercise\\03ShoppingSpree\\03ShoppingSpree.csproj",
       "packagesPath": "C:\\Users\\alexivanov2003\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\04EncapsulationExercise\\AnimalFarm\\AnimalFarm\\obj\\",
+      "outputPath": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\04EncapsulationExercise\\03ShoppingSpree\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexivanov2003\\AppData\\Roaming\\NuGet\\NuGet.Config",
