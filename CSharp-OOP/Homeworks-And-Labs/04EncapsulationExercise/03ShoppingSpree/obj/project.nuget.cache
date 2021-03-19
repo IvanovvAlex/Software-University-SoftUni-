@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zGKsWDQNNJ0f3kY8fyis82obRvdjhDK58BFpcsuzybDjLG1HCxfxRiIriL4gnatThV2rWO1aQHjn98OmvsmY0g==",
+  "dgSpecHash": "YIHbOI92xUS+ROQT+qk7wqaCuiLPDaxncwnOpYF5LhdV+6lht8vYdFZzaXKGHey7IVuot49nHWg8qM71SEEX5A==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\04EncapsulationExercise\\03ShoppingSpree\\03ShoppingSpree.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\04EncapsulationExercise\\03ShoppingSpree\\03ShoppingSpree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

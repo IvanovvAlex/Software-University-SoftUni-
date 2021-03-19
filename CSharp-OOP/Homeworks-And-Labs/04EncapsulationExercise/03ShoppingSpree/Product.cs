@@ -17,7 +17,7 @@ namespace _03ShoppingSpree
             {
                 throw new ArgumentException("Name cannot be empty");
             }
-            else if (cost < 0)
+            if (cost < 0)
             {
                 throw new ArgumentException("Money cannot be negative");
             }

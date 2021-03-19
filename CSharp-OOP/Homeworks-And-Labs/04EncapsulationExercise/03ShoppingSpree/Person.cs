@@ -28,22 +28,22 @@ namespace _03ShoppingSpree
         {
             get { return name; }
             private set
-            {               
-                    name = value;               
+            {
+                name = value;
             }
         }
         public decimal Money
         {
             get { return money; }
             private set
-            {               
-                    money = value;               
+            {
+                money = value;
             }
         }
         public List<Product> BagOfProducts
         {
             get { return bagOfProducts; }
-            set { bagOfProducts = value; }
+            private set { bagOfProducts = value; }
         }
         public void BuyProduct(Product product)
         {
@@ -56,7 +56,7 @@ namespace _03ShoppingSpree
             else
             {
                 Console.WriteLine($"{Name} can't afford {product.Name}");
-            }            
+            }
         }
         public List<string> ProductNames()
         {
@@ -67,7 +67,7 @@ namespace _03ShoppingSpree
                 list.Add(item.Name);
             }
             return list;
-                
+
         }
     }
 }
