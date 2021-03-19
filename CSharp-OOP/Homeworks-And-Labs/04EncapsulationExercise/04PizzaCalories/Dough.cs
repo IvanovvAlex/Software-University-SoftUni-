@@ -10,29 +10,30 @@ namespace _04PizzaCalories
         private double flourTypeCals;
         private string bakingTechnique;
         private double bakingTechniqueCals;
-        private int weight;
+        private double weight;
         private double calories;
 
-        public Dough(string flourType, int weight)
+        public Dough(string flourType, string bakingTechnique, double weight)
         {
             FlourType = flourType;
-            Weight = weight;            
+            Weight = weight;
+            BakingTechnique = bakingTechnique;
             calories = (2 * weight) * flourTypeCals * bakingTechniqueCals;
             Calories = calories;
         }
 
-        private string FlourType
+        public string FlourType
         {
             get { return flourType; }
-            set
+            private set
             {
-                switch (value)
+                switch (value.ToLower())
                 {
-                    case "White":
+                    case "white":
                         flourType = value;
                         flourTypeCals = 1.5;
                         break;
-                    case "Wholegrain":
+                    case "wholegrain":
                         flourType = value;
                         flourTypeCals = 1d;
                         break;                   
@@ -42,22 +43,22 @@ namespace _04PizzaCalories
                 flourType = value;
             }
         }
-        private string BakingTechnique
+        public string BakingTechnique
         {
             get { return bakingTechnique; }
-            set
+            private set
             {
-                switch (value)
+                switch (value.ToLower())
                 {                   
-                    case "Crispy":                        
+                    case "crispy":                        
                         bakingTechnique = value;
                         bakingTechniqueCals = 0.9;
                         break;
-                    case "Chewy":                        
+                    case "chewy":                        
                         bakingTechnique = value;
                         bakingTechniqueCals = 1.1;
                         break;
-                    case "Homemade":
+                    case "homemade":
                         bakingTechnique = value;
                         bakingTechniqueCals = 1d;
                         break;
@@ -67,10 +68,10 @@ namespace _04PizzaCalories
               
             }
         }
-        private int Weight
+        public double Weight
         {
             get { return weight; }
-            set 
+            private set 
             {
                 if (value < 1 || value > 200)
                 {

@@ -8,39 +8,39 @@ namespace _04PizzaCalories
     {
         private string toppingType;
         private double toppingTypeCals;       
-        private int weight;
+        private double weight;
         private double calories;
 
-        public Topping(string toppingType, int weight)
+        public Topping(string toppingType, double weight)
         {
             ToppingType = toppingType;
-            Weight = weight;
-            calories = (toppingTypeCals * weight);
+             Weight = weight;
+            calories = 2 * weight * toppingTypeCals;
             Calories = calories;
         }
 
-        private string ToppingType
+        public string ToppingType
         {
             get { return toppingType; }
-            set
+            private set
             {
-                switch (value)
+                switch (value.ToLower())
                 {
-                    case "Meat":    
+                    case "meat":    
                         toppingType = value;
-                        toppingTypeCals = 1.5;
+                        toppingTypeCals = 1.2;
                         break;
-                    case "Veggies":
+                    case "veggies":
                         toppingType = value;
-                        toppingTypeCals = 1d;
+                        toppingTypeCals = 0.8;
                         break;
-                    case "Cheese":
+                    case "cheese":
                         toppingType = value;
-                        toppingTypeCals = 1d;
+                        toppingTypeCals = 1.1;
                         break;
-                    case "Sauce":
+                    case "sauce":
                         toppingType = value;
-                        toppingTypeCals = 1d;
+                        toppingTypeCals = 0.9;
                         break;
                     default:
                         throw new ArgumentException($"Cannot place {value} on top of your pizza.");
@@ -48,12 +48,12 @@ namespace _04PizzaCalories
             }
         }
        
-        private int Weight
+        public double Weight
         {
             get { return weight; }
-            set
+            private set
             {
-                if (value < 1 || value > 200)
+                if (value < 1 || value > 50)
                 {
                     throw new ArgumentException($"{ToppingType} weight should be in the range [1..50].");
                 }

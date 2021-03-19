@@ -1,0 +1,13 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\04EncapsulationExercise\04PizzaCalories\bin\Debug\netcoreapp3.1\04PizzaCalories.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\04EncapsulationExercise\04PizzaCalories\bin\Debug\netcoreapp3.1\04PizzaCalories.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\04EncapsulationExercise\04PizzaCalories\bin\Debug\netcoreapp3.1\04PizzaCalories.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\04EncapsulationExercise\04PizzaCalories\bin\Debug\netcoreapp3.1\04PizzaCalories.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\04EncapsulationExercise\04PizzaCalories\bin\Debug\netcoreapp3.1\04PizzaCalories.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\04EncapsulationExercise\04PizzaCalories\bin\Debug\netcoreapp3.1\04PizzaCalories.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\04EncapsulationExercise\04PizzaCalories\obj\Debug\netcoreapp3.1\04PizzaCalories.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\04EncapsulationExercise\04PizzaCalories\obj\Debug\netcoreapp3.1\04PizzaCalories.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\04EncapsulationExercise\04PizzaCalories\obj\Debug\netcoreapp3.1\04PizzaCalories.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\04EncapsulationExercise\04PizzaCalories\obj\Debug\netcoreapp3.1\04PizzaCalories.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\04EncapsulationExercise\04PizzaCalories\obj\Debug\netcoreapp3.1\04PizzaCalories.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\04EncapsulationExercise\04PizzaCalories\obj\Debug\netcoreapp3.1\04PizzaCalories.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\04EncapsulationExercise\04PizzaCalories\obj\Debug\netcoreapp3.1\04PizzaCalories.genruntimeconfig.cache
