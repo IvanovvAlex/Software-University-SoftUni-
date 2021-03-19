@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FCFr6wVKFdLVNMi76g9AS5CI8xl4n65OvLWHEz60fu6QqE5uDwH1/dBZwuRWeTrCyZVfAh7coBG656hmiTRJ1Q==",
+  "dgSpecHash": "VovA3MkRv2PA3bQGEpJoht7bvoAsNsHrxlzShHsIapmPdo6O21h8lO1hesJwulMOmufHvR5VjuWvfz2cjpH13g==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\04EncapsulationExercise\\AnimalFarm\\AnimalFarm\\02AnimalFarm.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\04EncapsulationExercise\\AnimalFarm\\AnimalFarm\\02AnimalFarm.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

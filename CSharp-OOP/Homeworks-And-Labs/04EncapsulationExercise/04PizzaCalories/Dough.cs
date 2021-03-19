@@ -4,22 +4,89 @@ using System.Text;
 
 namespace _04PizzaCalories
 {
-    public class Dough
+    public class Dough 
     {
         private string flourType;
+        private double flourTypeCals;
+        private string bakingTechnique;
+        private double bakingTechniqueCals;
         private int weight;
+        private double calories;
 
-        public string FlourType
+        public Dough(string flourType, int weight)
         {
-            get { return flourType; }
-            set { flourType = value; }
-        }       
-        public int Weight
-        {
-            get { return weight; }
-            set { weight = value; }
+            FlourType = flourType;
+            Weight = weight;            
+            calories = (2 * weight) * flourTypeCals * bakingTechniqueCals;
+            Calories = calories;
         }
 
+        private string FlourType
+        {
+            get { return flourType; }
+            set
+            {
+                switch (value)
+                {
+                    case "White":
+                        flourType = value;
+                        flourTypeCals = 1.5;
+                        break;
+                    case "Wholegrain":
+                        flourType = value;
+                        flourTypeCals = 1d;
+                        break;                   
+                    default:
+                        throw new ArgumentException("Invalid type of dough.");                        
+                }
+                flourType = value;
+            }
+        }
+        private string BakingTechnique
+        {
+            get { return bakingTechnique; }
+            set
+            {
+                switch (value)
+                {                   
+                    case "Crispy":                        
+                        bakingTechnique = value;
+                        bakingTechniqueCals = 0.9;
+                        break;
+                    case "Chewy":                        
+                        bakingTechnique = value;
+                        bakingTechniqueCals = 1.1;
+                        break;
+                    case "Homemade":
+                        bakingTechnique = value;
+                        bakingTechniqueCals = 1d;
+                        break;
+                    default:
+                        throw new ArgumentException("Invalid type of dough.");
+                }
+              
+            }
+        }
+        private int Weight
+        {
+            get { return weight; }
+            set 
+            {
+                if (value < 1 || value > 200)
+                {
+                    throw new ArgumentException("Dough weight should be in the range [1..200].");
+                }
+                weight = value;
+            }
+        }
 
+        public double Calories
+        {
+            get { return calories; }
+            private set
+            {              
+                calories = value;
+            }
+        }
     }
 }
