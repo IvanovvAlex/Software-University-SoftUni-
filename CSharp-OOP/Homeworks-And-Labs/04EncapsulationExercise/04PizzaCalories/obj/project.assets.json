@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\04EncapsulationExercise\\01ClassBoxData\\01ClassBoxData.csproj",
-      "projectName": "01ClassBoxData",
-      "projectPath": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\04EncapsulationExercise\\01ClassBoxData\\01ClassBoxData.csproj",
+      "projectUniqueName": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\04EncapsulationExercise\\04PizzaCalories\\04PizzaCalories.csproj",
+      "projectName": "04PizzaCalories",
+      "projectPath": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\04EncapsulationExercise\\04PizzaCalories\\04PizzaCalories.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\04EncapsulationExercise\\01ClassBoxData\\obj\\",
+      "outputPath": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\04EncapsulationExercise\\04PizzaCalories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1vo7vw4sd3hXw1xW8TPP6a7PxY2rqiwsasKotBTIF/6/ObeMVgx+Gy0jretZEG7DZFvza4B2uEP/F45Vge6Yeg==",
+  "dgSpecHash": "l4NuuZ8F/4nbw+wvmKBoMH1M1n19Dp72DYMIlE4tXhvUANSTHMsW5BsmM3hj6DAVNseWTF9pkcpSOyh0AtqMKg==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\04EncapsulationExercise\\01ClassBoxData\\01ClassBoxData.csproj",
+  "projectFilePath": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\04EncapsulationExercise\\04PizzaCalories\\04PizzaCalories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
