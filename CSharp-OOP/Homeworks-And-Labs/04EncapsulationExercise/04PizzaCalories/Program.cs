@@ -20,7 +20,7 @@ namespace _04PizzaCalories
                 int weight = int.Parse(secondLine[3]);
                 Dough dough = new Dough(flourType, bakingTechnique, weight);
                 Pizza pizza = new Pizza(firstLine[1], dough);
-
+                
                 string[] cmd = Console.ReadLine()
                     .Split(" ", StringSplitOptions.RemoveEmptyEntries);
 
@@ -35,7 +35,7 @@ namespace _04PizzaCalories
                    .Split(" ", StringSplitOptions.RemoveEmptyEntries);
                 }
 
-                Console.WriteLine($"{pizza.Name} - {pizza.TotalCalories:f2} Calories.");
+                Console.WriteLine(pizza.ToString());
             }
             catch (Exception ex)
             {

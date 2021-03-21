@@ -22,10 +22,10 @@ namespace _04PizzaCalories
             Calories = calories;
         }
 
-        public string FlourType
+        private string FlourType
         {
             get { return flourType; }
-            private set
+            set
             {
                 switch (value.ToLower())
                 {
@@ -43,10 +43,10 @@ namespace _04PizzaCalories
                 flourType = value;
             }
         }
-        public string BakingTechnique
+        private string BakingTechnique
         {
             get { return bakingTechnique; }
-            private set
+            set
             {
                 switch (value.ToLower())
                 {                   
@@ -68,10 +68,10 @@ namespace _04PizzaCalories
               
             }
         }
-        public double Weight
+        private double Weight
         {
             get { return weight; }
-            private set 
+            set 
             {
                 if (value < 1 || value > 200)
                 {

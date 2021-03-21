@@ -19,10 +19,10 @@ namespace _04PizzaCalories
             Calories = calories;
         }
 
-        public string ToppingType
+        private string ToppingType
         {
             get { return toppingType; }
-            private set
+            set
             {
                 switch (value.ToLower())
                 {
@@ -47,11 +47,11 @@ namespace _04PizzaCalories
                 }                
             }
         }
-       
-        public double Weight
+
+        private double Weight
         {
             get { return weight; }
-            private set
+            set
             {
                 if (value < 1 || value > 50)
                 {

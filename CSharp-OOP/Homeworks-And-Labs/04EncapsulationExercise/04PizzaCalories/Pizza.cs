@@ -15,8 +15,8 @@ namespace _04PizzaCalories
 
         public Pizza(string name, Dough dough)
         {
-            Name = name;
-            Dough = dough;
+            Name = name;            
+            Dough = dough;            
             toppings = new List<Topping>();
         }
        
@@ -26,10 +26,10 @@ namespace _04PizzaCalories
             private set { totalCalories = value; }
         }
 
-        public string Name
+        private string Name
         {
             get { return name; }
-            private set
+            set
             {
                 if (string.IsNullOrEmpty(value) || value.Length > 15)
                 {
@@ -38,18 +38,18 @@ namespace _04PizzaCalories
                 name = value; 
             }
         }
-        public List<Topping> Toppings
+        private List<Topping> Toppings
         {
             get { return toppings; }
-            private set 
+            set 
             {               
                 toppings = value; 
             }
         }
         public Dough Dough
         {
-            get { return dough; }
-            private set 
+            private get { return dough; }
+            set 
             {
                 totalCalories += value.Calories;                
                 dough = value;
@@ -64,6 +64,10 @@ namespace _04PizzaCalories
             {
                 throw new ArgumentException("Number of toppings should be in range [0..10].");
             }
+        }
+        public override string ToString()
+        {
+            return $"{Name} - {TotalCalories:f2} Calories."; 
         }
     }
 }
