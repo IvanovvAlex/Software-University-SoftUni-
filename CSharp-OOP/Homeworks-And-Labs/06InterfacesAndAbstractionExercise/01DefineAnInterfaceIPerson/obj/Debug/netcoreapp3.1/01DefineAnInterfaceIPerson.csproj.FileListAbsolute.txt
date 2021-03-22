@@ -1,0 +1,12 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01DefineAnInterfaceIPerson.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01DefineAnInterfaceIPerson.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01DefineAnInterfaceIPerson.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01DefineAnInterfaceIPerson.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01DefineAnInterfaceIPerson.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01DefineAnInterfaceIPerson.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01DefineAnInterfaceIPerson.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01DefineAnInterfaceIPerson.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01DefineAnInterfaceIPerson.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\01DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01DefineAnInterfaceIPerson.genruntimeconfig.cache

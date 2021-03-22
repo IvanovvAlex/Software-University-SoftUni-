@@ -1,0 +1,13 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\04BorderControl\bin\Debug\netcoreapp3.1\04BorderControl.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\04BorderControl\bin\Debug\netcoreapp3.1\04BorderControl.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\04BorderControl\bin\Debug\netcoreapp3.1\04BorderControl.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\04BorderControl\bin\Debug\netcoreapp3.1\04BorderControl.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\04BorderControl\bin\Debug\netcoreapp3.1\04BorderControl.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\04BorderControl\bin\Debug\netcoreapp3.1\04BorderControl.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\04BorderControl\obj\Debug\netcoreapp3.1\04BorderControl.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\04BorderControl\obj\Debug\netcoreapp3.1\04BorderControl.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\04BorderControl\obj\Debug\netcoreapp3.1\04BorderControl.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\04BorderControl\obj\Debug\netcoreapp3.1\04BorderControl.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\04BorderControl\obj\Debug\netcoreapp3.1\04BorderControl.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\04BorderControl\obj\Debug\netcoreapp3.1\04BorderControl.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\04BorderControl\obj\Debug\netcoreapp3.1\04BorderControl.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\02MultipleImplementation\bin\Debug\netcoreapp3.1\02MultipleImplementation.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\02MultipleImplementation\bin\Debug\netcoreapp3.1\02MultipleImplementation.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\02MultipleImplementation\bin\Debug\netcoreapp3.1\02MultipleImplementation.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\02MultipleImplementation\bin\Debug\netcoreapp3.1\02MultipleImplementation.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\02MultipleImplementation\bin\Debug\netcoreapp3.1\02MultipleImplementation.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\02MultipleImplementation\bin\Debug\netcoreapp3.1\02MultipleImplementation.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\02MultipleImplementation\obj\Debug\netcoreapp3.1\02MultipleImplementation.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\02MultipleImplementation\obj\Debug\netcoreapp3.1\02MultipleImplementation.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\02MultipleImplementation\obj\Debug\netcoreapp3.1\02MultipleImplementation.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\02MultipleImplementation\obj\Debug\netcoreapp3.1\02MultipleImplementation.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\02MultipleImplementation\obj\Debug\netcoreapp3.1\02MultipleImplementation.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\02MultipleImplementation\obj\Debug\netcoreapp3.1\02MultipleImplementation.genruntimeconfig.cache

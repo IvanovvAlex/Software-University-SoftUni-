@@ -1,0 +1,13 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\03Telephony\bin\Debug\netcoreapp3.1\03Telephony.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\03Telephony\bin\Debug\netcoreapp3.1\03Telephony.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\03Telephony\bin\Debug\netcoreapp3.1\03Telephony.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\03Telephony\bin\Debug\netcoreapp3.1\03Telephony.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\03Telephony\bin\Debug\netcoreapp3.1\03Telephony.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\03Telephony\bin\Debug\netcoreapp3.1\03Telephony.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\03Telephony\obj\Debug\netcoreapp3.1\03Telephony.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\03Telephony\obj\Debug\netcoreapp3.1\03Telephony.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\03Telephony\obj\Debug\netcoreapp3.1\03Telephony.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\03Telephony\obj\Debug\netcoreapp3.1\03Telephony.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\03Telephony\obj\Debug\netcoreapp3.1\03Telephony.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\03Telephony\obj\Debug\netcoreapp3.1\03Telephony.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\03Telephony\obj\Debug\netcoreapp3.1\03Telephony.genruntimeconfig.cache
