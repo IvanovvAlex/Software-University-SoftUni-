@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01DefineAnInterfaceIPerson", "01DefineAnInterfaceIPerson\01DefineAnInterfaceIPerson.csproj", "{B9DE83A6-899C-45CF-93E8-BA1F188B5CE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01DefineAnInterfaceIPerson", "01DefineAnInterfaceIPerson\01DefineAnInterfaceIPerson.csproj", "{B9DE83A6-899C-45CF-93E8-BA1F188B5CE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02MultipleImplementation", "02MultipleImplementation\02MultipleImplementation.csproj", "{24C0B045-AEB2-41C6-B386-8BEDB54B380D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02MultipleImplementation", "02MultipleImplementation\02MultipleImplementation.csproj", "{24C0B045-AEB2-41C6-B386-8BEDB54B380D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Telephony", "03Telephony\03Telephony.csproj", "{B1901AF9-4D29-43C4-BCA8-7423879F0C82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03Telephony", "03Telephony\03Telephony.csproj", "{B1901AF9-4D29-43C4-BCA8-7423879F0C82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04BorderControl", "04BorderControl\04BorderControl.csproj", "{AB789E51-B334-4FB1-B5ED-B1D022BB7CAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04BorderControl", "04BorderControl\04BorderControl.csproj", "{AB789E51-B334-4FB1-B5ED-B1D022BB7CAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05BirthdayCelebrations", "05BirthdayCelebrations\05BirthdayCelebrations.csproj", "{84C80CF3-D4E8-43B3-9699-FDCC709C405F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05BirthdayCelebrations", "05BirthdayCelebrations\05BirthdayCelebrations.csproj", "{84C80CF3-D4E8-43B3-9699-FDCC709C405F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06FoodShortage", "06FoodShortage\06FoodShortage.csproj", "{F7FD8A48-A3C6-47CB-B1C1-ED0050E8DA2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07MilitaryElite", "07MilitaryElite\07MilitaryElite.csproj", "{F5CD555D-EF40-4507-AD1D-76045B9FCF08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{84C80CF3-D4E8-43B3-9699-FDCC709C405F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84C80CF3-D4E8-43B3-9699-FDCC709C405F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84C80CF3-D4E8-43B3-9699-FDCC709C405F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7FD8A48-A3C6-47CB-B1C1-ED0050E8DA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FD8A48-A3C6-47CB-B1C1-ED0050E8DA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FD8A48-A3C6-47CB-B1C1-ED0050E8DA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FD8A48-A3C6-47CB-B1C1-ED0050E8DA2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5CD555D-EF40-4507-AD1D-76045B9FCF08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CD555D-EF40-4507-AD1D-76045B9FCF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CD555D-EF40-4507-AD1D-76045B9FCF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CD555D-EF40-4507-AD1D-76045B9FCF08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,13 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\06FoodShortage\bin\Debug\netcoreapp3.1\06FoodShortage.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\06FoodShortage\bin\Debug\netcoreapp3.1\06FoodShortage.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\06FoodShortage\bin\Debug\netcoreapp3.1\06FoodShortage.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\06FoodShortage\bin\Debug\netcoreapp3.1\06FoodShortage.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\06FoodShortage\bin\Debug\netcoreapp3.1\06FoodShortage.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\06FoodShortage\bin\Debug\netcoreapp3.1\06FoodShortage.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\06FoodShortage\obj\Debug\netcoreapp3.1\06FoodShortage.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\06FoodShortage\obj\Debug\netcoreapp3.1\06FoodShortage.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\06FoodShortage\obj\Debug\netcoreapp3.1\06FoodShortage.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\06FoodShortage\obj\Debug\netcoreapp3.1\06FoodShortage.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\06FoodShortage\obj\Debug\netcoreapp3.1\06FoodShortage.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\06FoodShortage\obj\Debug\netcoreapp3.1\06FoodShortage.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\06FoodShortage\obj\Debug\netcoreapp3.1\06FoodShortage.genruntimeconfig.cache

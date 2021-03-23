@@ -1,0 +1,13 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\05BirthdayCelebrations\bin\Debug\netcoreapp3.1\05BirthdayCelebrations.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\05BirthdayCelebrations\bin\Debug\netcoreapp3.1\05BirthdayCelebrations.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\05BirthdayCelebrations\bin\Debug\netcoreapp3.1\05BirthdayCelebrations.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\05BirthdayCelebrations\bin\Debug\netcoreapp3.1\05BirthdayCelebrations.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\05BirthdayCelebrations\bin\Debug\netcoreapp3.1\05BirthdayCelebrations.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\05BirthdayCelebrations\bin\Debug\netcoreapp3.1\05BirthdayCelebrations.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\05BirthdayCelebrations\obj\Debug\netcoreapp3.1\05BirthdayCelebrations.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\05BirthdayCelebrations\obj\Debug\netcoreapp3.1\05BirthdayCelebrations.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\05BirthdayCelebrations\obj\Debug\netcoreapp3.1\05BirthdayCelebrations.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\05BirthdayCelebrations\obj\Debug\netcoreapp3.1\05BirthdayCelebrations.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\05BirthdayCelebrations\obj\Debug\netcoreapp3.1\05BirthdayCelebrations.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\05BirthdayCelebrations\obj\Debug\netcoreapp3.1\05BirthdayCelebrations.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\05BirthdayCelebrations\obj\Debug\netcoreapp3.1\05BirthdayCelebrations.genruntimeconfig.cache
