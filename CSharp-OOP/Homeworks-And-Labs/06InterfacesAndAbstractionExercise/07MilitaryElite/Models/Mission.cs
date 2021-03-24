@@ -18,13 +18,23 @@ namespace _07MilitaryElite.Models
         public string CodeName
         {
             get { return codeName; }
-            set { codeName = value; }
+            private set { codeName = value; }
         }
 
         public string State
         {
             get { return state; }
-            set { state = value; }
+            private set
+            {
+                if (value == "inProgress" || value == "Finished")
+                {
+                    state = value;
+                }
+            }
+        }
+        public void CompleteMission()
+        {
+            State = "Finished";
         }
     }
 }

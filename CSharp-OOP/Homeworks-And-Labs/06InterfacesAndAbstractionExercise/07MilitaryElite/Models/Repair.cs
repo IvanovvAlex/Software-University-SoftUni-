@@ -15,13 +15,13 @@ namespace _07MilitaryElite.Models
         public string PartName
         {
             get { return partName; }
-            set { partName = value; }
+            private set { partName = value; }
         }
 
         public int HoursWorked
         {
             get { return hoursWorked; }
-            set { hoursWorked = value; }
+            private set { hoursWorked = value; }
         }
 
     }

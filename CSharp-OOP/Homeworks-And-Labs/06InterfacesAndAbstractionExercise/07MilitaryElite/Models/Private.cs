@@ -7,11 +7,11 @@ namespace _07MilitaryElite.Models
 {
     public class Private : Soldier, IPrivate
     {
-        public Private(string id, string firstName, string lastName, decimal salary)
+        public Private(int id, string firstName, string lastName, decimal salary)
             : base(id, firstName,lastName)
         {
             Salary = salary;
         }
-        public decimal Salary { get; set; }
+        public decimal Salary { get; private set; }
     }
 }

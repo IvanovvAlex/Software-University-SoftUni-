@@ -8,7 +8,7 @@ namespace _07MilitaryElite.Models
     class Spy : Soldier, ISpy
     {
         private int codeNumber;
-        public Spy(string id, string firstName, string lastName, int codeNumber)
+        public Spy(int id, string firstName, string lastName, int codeNumber)
             :base(id, firstName, lastName)
         {
             CodeNumber = codeNumber;
@@ -16,7 +16,7 @@ namespace _07MilitaryElite.Models
         public int CodeNumber
         {
             get { return codeNumber; }
-            set { codeNumber = value; }
+            private set { codeNumber = value; }
         }
 
     }

@@ -1,0 +1,13 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\07MilitaryElite\bin\Debug\netcoreapp3.1\07MilitaryElite.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\07MilitaryElite\bin\Debug\netcoreapp3.1\07MilitaryElite.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\07MilitaryElite\bin\Debug\netcoreapp3.1\07MilitaryElite.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\07MilitaryElite\bin\Debug\netcoreapp3.1\07MilitaryElite.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\07MilitaryElite\bin\Debug\netcoreapp3.1\07MilitaryElite.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\07MilitaryElite\bin\Debug\netcoreapp3.1\07MilitaryElite.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\07MilitaryElite\obj\Debug\netcoreapp3.1\07MilitaryElite.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\07MilitaryElite\obj\Debug\netcoreapp3.1\07MilitaryElite.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\07MilitaryElite\obj\Debug\netcoreapp3.1\07MilitaryElite.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\07MilitaryElite\obj\Debug\netcoreapp3.1\07MilitaryElite.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\07MilitaryElite\obj\Debug\netcoreapp3.1\07MilitaryElite.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\07MilitaryElite\obj\Debug\netcoreapp3.1\07MilitaryElite.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\07MilitaryElite\obj\Debug\netcoreapp3.1\07MilitaryElite.genruntimeconfig.cache

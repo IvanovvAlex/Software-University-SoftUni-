@@ -8,14 +8,16 @@ namespace _07MilitaryElite.Models
     public class Commando : SpecialisedSoldier, ICommando
     {
         private List<Mission> setOfMissions;
-        public Commando(string id, string firstName, string lastName, decimal salary, string corp)
+        public Commando(int id, string firstName, string lastName, decimal salary, string corp)
           : base(id, firstName, lastName, salary, corp)
         {
             setOfMissions = new List<Mission>();
         }
-       public void CompleteMission(Mission mission)
+       
+        public List<Mission> SetOfMissions
         {
-            setOfMissions.Remove(mission);
-        }
+            get { return setOfMissions; }
+            private set { setOfMissions = value; }
+        }      
     }
 }
