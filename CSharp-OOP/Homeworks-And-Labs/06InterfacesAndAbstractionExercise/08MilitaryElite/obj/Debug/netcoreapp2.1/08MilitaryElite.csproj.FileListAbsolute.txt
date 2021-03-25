@@ -1,0 +1,12 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\08MilitaryElite\bin\Debug\netcoreapp2.1\08MilitaryElite.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\08MilitaryElite\bin\Debug\netcoreapp2.1\08MilitaryElite.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\08MilitaryElite\bin\Debug\netcoreapp2.1\08MilitaryElite.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\08MilitaryElite\bin\Debug\netcoreapp2.1\08MilitaryElite.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\08MilitaryElite\bin\Debug\netcoreapp2.1\08MilitaryElite.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\08MilitaryElite\obj\Debug\netcoreapp2.1\08MilitaryElite.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\08MilitaryElite\obj\Debug\netcoreapp2.1\08MilitaryElite.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\08MilitaryElite\obj\Debug\netcoreapp2.1\08MilitaryElite.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\08MilitaryElite\obj\Debug\netcoreapp2.1\08MilitaryElite.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\08MilitaryElite\obj\Debug\netcoreapp2.1\08MilitaryElite.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\08MilitaryElite\obj\Debug\netcoreapp2.1\08MilitaryElite.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Homeworks-And-Labs\06InterfacesAndAbstractionExercise\08MilitaryElite\obj\Debug\netcoreapp2.1\08MilitaryElite.genruntimeconfig.cache
