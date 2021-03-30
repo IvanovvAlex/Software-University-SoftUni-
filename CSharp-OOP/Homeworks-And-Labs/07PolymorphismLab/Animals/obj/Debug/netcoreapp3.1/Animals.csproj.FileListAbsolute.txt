@@ -1,0 +1,13 @@
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

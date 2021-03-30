@@ -1,0 +1,13 @@
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Operations\bin\Debug\netcoreapp3.1\Operations.exe
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Operations\bin\Debug\netcoreapp3.1\Operations.deps.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Operations\bin\Debug\netcoreapp3.1\Operations.dll
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Operations\bin\Debug\netcoreapp3.1\Operations.pdb
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Operations\obj\Debug\netcoreapp3.1\Operations.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Operations\obj\Debug\netcoreapp3.1\Operations.dll
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Operations\obj\Debug\netcoreapp3.1\Operations.pdb
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\07PolymorphismLab\Operations\obj\Debug\netcoreapp3.1\Operations.genruntimeconfig.cache

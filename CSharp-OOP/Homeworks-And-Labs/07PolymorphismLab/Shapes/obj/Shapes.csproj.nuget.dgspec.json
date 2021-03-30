@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\07PolymorphismLab\\Operations\\Operations.csproj": {}
+    "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\07PolymorphismLab\\Shapes\\Shapes.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\07PolymorphismLab\\Operations\\Operations.csproj": {
+    "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\07PolymorphismLab\\Shapes\\Shapes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\07PolymorphismLab\\Operations\\Operations.csproj",
-        "projectName": "Operations",
-        "projectPath": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\07PolymorphismLab\\Operations\\Operations.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\07PolymorphismLab\\Shapes\\Shapes.csproj",
+        "projectName": "Shapes",
+        "projectPath": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\07PolymorphismLab\\Shapes\\Shapes.csproj",
         "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\07PolymorphismLab\\Operations\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\07PolymorphismLab\\Shapes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
