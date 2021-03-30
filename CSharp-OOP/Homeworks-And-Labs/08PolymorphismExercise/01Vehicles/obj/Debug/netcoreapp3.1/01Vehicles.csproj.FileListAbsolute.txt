@@ -1,0 +1,13 @@
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\01Vehicles\bin\Debug\netcoreapp3.1\01Vehicles.exe
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\01Vehicles\bin\Debug\netcoreapp3.1\01Vehicles.deps.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\01Vehicles\bin\Debug\netcoreapp3.1\01Vehicles.runtimeconfig.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\01Vehicles\bin\Debug\netcoreapp3.1\01Vehicles.runtimeconfig.dev.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\01Vehicles\bin\Debug\netcoreapp3.1\01Vehicles.dll
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\01Vehicles\bin\Debug\netcoreapp3.1\01Vehicles.pdb
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\01Vehicles\obj\Debug\netcoreapp3.1\01Vehicles.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\01Vehicles\obj\Debug\netcoreapp3.1\01Vehicles.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\01Vehicles\obj\Debug\netcoreapp3.1\01Vehicles.AssemblyInfo.cs
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\01Vehicles\obj\Debug\netcoreapp3.1\01Vehicles.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\01Vehicles\obj\Debug\netcoreapp3.1\01Vehicles.dll
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\01Vehicles\obj\Debug\netcoreapp3.1\01Vehicles.pdb
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\01Vehicles\obj\Debug\netcoreapp3.1\01Vehicles.genruntimeconfig.cache

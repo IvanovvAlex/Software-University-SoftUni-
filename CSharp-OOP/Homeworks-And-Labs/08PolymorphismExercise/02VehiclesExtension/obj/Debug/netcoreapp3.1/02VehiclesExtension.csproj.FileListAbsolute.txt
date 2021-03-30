@@ -1,0 +1,13 @@
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\02VehiclesExtension\bin\Debug\netcoreapp3.1\02VehiclesExtension.exe
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\02VehiclesExtension\bin\Debug\netcoreapp3.1\02VehiclesExtension.deps.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\02VehiclesExtension\bin\Debug\netcoreapp3.1\02VehiclesExtension.runtimeconfig.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\02VehiclesExtension\bin\Debug\netcoreapp3.1\02VehiclesExtension.runtimeconfig.dev.json
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\02VehiclesExtension\bin\Debug\netcoreapp3.1\02VehiclesExtension.dll
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\02VehiclesExtension\bin\Debug\netcoreapp3.1\02VehiclesExtension.pdb
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\02VehiclesExtension\obj\Debug\netcoreapp3.1\02VehiclesExtension.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\02VehiclesExtension\obj\Debug\netcoreapp3.1\02VehiclesExtension.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\02VehiclesExtension\obj\Debug\netcoreapp3.1\02VehiclesExtension.AssemblyInfo.cs
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\02VehiclesExtension\obj\Debug\netcoreapp3.1\02VehiclesExtension.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\02VehiclesExtension\obj\Debug\netcoreapp3.1\02VehiclesExtension.dll
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\02VehiclesExtension\obj\Debug\netcoreapp3.1\02VehiclesExtension.pdb
+D:\SoftUni\SoftUni-Software-Engineering\CSharp-OOP\Homeworks-And-Labs\08PolymorphismExercise\02VehiclesExtension\obj\Debug\netcoreapp3.1\02VehiclesExtension.genruntimeconfig.cache
