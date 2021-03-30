@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\08PolymorphismExercise\\02VehiclesExtension\\02VehiclesExtension.csproj",
-      "projectName": "02VehiclesExtension",
-      "projectPath": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\08PolymorphismExercise\\02VehiclesExtension\\02VehiclesExtension.csproj",
+      "projectUniqueName": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\08PolymorphismExercise\\03Raiding\\03Raiding.csproj",
+      "projectName": "03Raiding",
+      "projectPath": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\08PolymorphismExercise\\03Raiding\\03Raiding.csproj",
       "packagesPath": "C:\\Users\\alexivanov2003\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\08PolymorphismExercise\\02VehiclesExtension\\obj\\",
+      "outputPath": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\08PolymorphismExercise\\03Raiding\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexivanov2003\\AppData\\Roaming\\NuGet\\NuGet.Config",

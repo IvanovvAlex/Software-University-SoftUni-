@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\08PolymorphismExercise\\01Vehicles\\01Vehicles.csproj": {}
+    "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\08PolymorphismExercise\\01Vehicles\\01Vehicles.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\08PolymorphismExercise\\01Vehicles\\01Vehicles.csproj": {
+    "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\08PolymorphismExercise\\01Vehicles\\01Vehicles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\08PolymorphismExercise\\01Vehicles\\01Vehicles.csproj",
+        "projectUniqueName": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\08PolymorphismExercise\\01Vehicles\\01Vehicles.csproj",
         "projectName": "01Vehicles",
-        "projectPath": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\08PolymorphismExercise\\01Vehicles\\01Vehicles.csproj",
-        "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\08PolymorphismExercise\\01Vehicles\\obj\\",
+        "projectPath": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\08PolymorphismExercise\\01Vehicles\\01Vehicles.csproj",
+        "packagesPath": "C:\\Users\\alexivanov2003\\.nuget\\packages\\",
+        "outputPath": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\08PolymorphismExercise\\01Vehicles\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\alexivanov2003\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
