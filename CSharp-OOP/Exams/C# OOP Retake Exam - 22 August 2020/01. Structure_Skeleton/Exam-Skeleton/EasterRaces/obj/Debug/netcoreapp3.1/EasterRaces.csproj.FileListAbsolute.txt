@@ -1,0 +1,13 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\C# OOP Retake Exam - 22 August 2020\01. Structure_Skeleton\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\C# OOP Retake Exam - 22 August 2020\01. Structure_Skeleton\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\C# OOP Retake Exam - 22 August 2020\01. Structure_Skeleton\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\C# OOP Retake Exam - 22 August 2020\01. Structure_Skeleton\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\C# OOP Retake Exam - 22 August 2020\01. Structure_Skeleton\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\C# OOP Retake Exam - 22 August 2020\01. Structure_Skeleton\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\C# OOP Retake Exam - 22 August 2020\01. Structure_Skeleton\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\C# OOP Retake Exam - 22 August 2020\01. Structure_Skeleton\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\C# OOP Retake Exam - 22 August 2020\01. Structure_Skeleton\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\C# OOP Retake Exam - 22 August 2020\01. Structure_Skeleton\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\C# OOP Retake Exam - 22 August 2020\01. Structure_Skeleton\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\C# OOP Retake Exam - 22 August 2020\01. Structure_Skeleton\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\C# OOP Retake Exam - 22 August 2020\01. Structure_Skeleton\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.genruntimeconfig.cache
