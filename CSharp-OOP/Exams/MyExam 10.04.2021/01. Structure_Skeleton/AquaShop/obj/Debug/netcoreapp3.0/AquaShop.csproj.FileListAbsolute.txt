@@ -1,0 +1,13 @@
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\MyExam 10.04.2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csprojAssemblyReference.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\MyExam 10.04.2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\MyExam 10.04.2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\MyExam 10.04.2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\MyExam 10.04.2021\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\MyExam 10.04.2021\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\MyExam 10.04.2021\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\MyExam 10.04.2021\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\MyExam 10.04.2021\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\MyExam 10.04.2021\01. Structure_Skeleton\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\MyExam 10.04.2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\MyExam 10.04.2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+D:\SoftUni\Software-University-SoftUni\CSharp-OOP\Exams\MyExam 10.04.2021\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache

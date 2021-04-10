@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zXToVXjfQ2uUsYkitc3xlL1j2yB6DmwJkiw6sg7nzXuVSqbAmTYaknP+63hbCQ1Kp+27qYi9JHEU1oOikU/XRQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Exams\\MyExam 10.04.2021\\03. Unit Tests_Skeleton\\Aquariums\\Aquariums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexivanov2003\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\alexivanov2003\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\alexivanov2003\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\alexivanov2003\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
