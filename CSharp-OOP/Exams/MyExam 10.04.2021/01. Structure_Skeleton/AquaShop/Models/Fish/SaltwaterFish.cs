@@ -8,8 +8,7 @@ namespace AquaShop.Models.Fish
     {
         //Can only live in SaltwaterAquarium!
         public SaltwaterFish(string name, string species, decimal price) : base(name, species, price)
-        {
-            //this.Type = "saltwaterfish";
+        {            
             Size = 5;
         }
 

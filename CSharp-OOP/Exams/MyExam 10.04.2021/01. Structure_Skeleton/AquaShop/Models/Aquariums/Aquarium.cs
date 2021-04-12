@@ -96,10 +96,10 @@ namespace AquaShop.Models.Aquariums
             {
                 sb.AppendLine($"Fish: none");
             }
-            sb.AppendLine($"Decorations: {this.Decorations.Count}\r\n");
+            sb.AppendLine($"Decorations: {this.Decorations.Count}");
             sb.AppendLine($"Comfort: {this.Comfort}");
 
-            return sb.ToString();
+            return sb.ToString().Trim();
         }
 
         public bool RemoveFish(IFish fishToRem)

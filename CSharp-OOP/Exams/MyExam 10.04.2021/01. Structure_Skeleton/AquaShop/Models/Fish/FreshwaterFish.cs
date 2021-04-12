@@ -9,7 +9,7 @@ namespace AquaShop.Models.Fish
         //Can only live in FreshwaterAquarium!       
         public FreshwaterFish(string name, string species, decimal price) : base(name, species, price)
         {
-            //this.Type = "freshwaterfish";
+            
         }
 
         public override void Eat()

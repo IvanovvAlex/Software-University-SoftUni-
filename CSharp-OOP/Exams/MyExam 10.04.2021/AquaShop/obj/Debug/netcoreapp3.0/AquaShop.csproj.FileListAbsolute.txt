@@ -1,0 +1,12 @@
+C:\Users\alexivanov2003\Desktop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+C:\Users\alexivanov2003\Desktop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+C:\Users\alexivanov2003\Desktop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+C:\Users\alexivanov2003\Desktop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+C:\Users\alexivanov2003\Desktop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\alexivanov2003\Desktop\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\alexivanov2003\Desktop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+C:\Users\alexivanov2003\Desktop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+C:\Users\alexivanov2003\Desktop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+C:\Users\alexivanov2003\Desktop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\alexivanov2003\Desktop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\alexivanov2003\Desktop\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache

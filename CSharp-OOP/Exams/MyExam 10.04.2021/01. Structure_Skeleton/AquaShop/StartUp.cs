@@ -1,7 +1,6 @@
 ﻿namespace AquaShop
 {
-    using System;
-
+    using System;    
     using AquaShop.Core;
     using AquaShop.Core.Contracts;
 
