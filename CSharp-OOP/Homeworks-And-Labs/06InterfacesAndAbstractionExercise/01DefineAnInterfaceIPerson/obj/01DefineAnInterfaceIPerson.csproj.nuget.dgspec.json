@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\06InterfacesAndAbstractionExercise\\01DefineAnInterfaceIPerson\\01DefineAnInterfaceIPerson.csproj": {}
+    "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\06InterfacesAndAbstractionExercise\\01DefineAnInterfaceIPerson\\01DefineAnInterfaceIPerson.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\06InterfacesAndAbstractionExercise\\01DefineAnInterfaceIPerson\\01DefineAnInterfaceIPerson.csproj": {
+    "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\06InterfacesAndAbstractionExercise\\01DefineAnInterfaceIPerson\\01DefineAnInterfaceIPerson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\06InterfacesAndAbstractionExercise\\01DefineAnInterfaceIPerson\\01DefineAnInterfaceIPerson.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\06InterfacesAndAbstractionExercise\\01DefineAnInterfaceIPerson\\01DefineAnInterfaceIPerson.csproj",
         "projectName": "01DefineAnInterfaceIPerson",
-        "projectPath": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\06InterfacesAndAbstractionExercise\\01DefineAnInterfaceIPerson\\01DefineAnInterfaceIPerson.csproj",
-        "packagesPath": "C:\\Users\\alexivanov2003\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\06InterfacesAndAbstractionExercise\\01DefineAnInterfaceIPerson\\obj\\",
+        "projectPath": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\06InterfacesAndAbstractionExercise\\01DefineAnInterfaceIPerson\\01DefineAnInterfaceIPerson.csproj",
+        "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
+        "outputPath": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\06InterfacesAndAbstractionExercise\\01DefineAnInterfaceIPerson\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\alexivanov2003\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

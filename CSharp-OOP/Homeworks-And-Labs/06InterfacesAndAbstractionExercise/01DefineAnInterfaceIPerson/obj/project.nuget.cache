@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NA03JnHcx64aFTF+p2ccEEVDXc064bgeygPG2HmjQFdNSwPccUKguMPATfDg3uecnZiSoOpBVJO2hyp2A61khg==",
+  "dgSpecHash": "NG7SXc+2KscHTCsOx40NedQatIUmnBfCSLS16Gk/Z+7PMkcUt4j2Yrl5jxtm91ipd9lcJ0W6bjhZ5GWuZzEp5g==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Homeworks-And-Labs\\06InterfacesAndAbstractionExercise\\01DefineAnInterfaceIPerson\\01DefineAnInterfaceIPerson.csproj",
+  "projectFilePath": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Homeworks-And-Labs\\06InterfacesAndAbstractionExercise\\01DefineAnInterfaceIPerson\\01DefineAnInterfaceIPerson.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
