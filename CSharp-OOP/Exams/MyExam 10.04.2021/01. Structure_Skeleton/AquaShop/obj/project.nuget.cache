@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Gupn02CPckL0psLrH7hIxiHk05td4mQEB4y2sj696U2kwLWRtOl4zMFgjiQ6rWiF5RVSKI0bnATSsxlI3hmLAg==",
+  "dgSpecHash": "0a3Wk2ohI2LcP4zSFVaqVmjkoag91VOUF1cAcNmcSIX9u0YZoOWuKA1DafLkphqHGNvjOxqR3dsdn40h2bQrOw==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\Software-University-SoftUni\\CSharp-OOP\\Exams\\MyExam 10.04.2021\\01. Structure_Skeleton\\AquaShop\\AquaShop.csproj",
+  "projectFilePath": "D:\\SoftUni\\SoftUni-Software-Engineering\\CSharp-OOP\\Exams\\MyExam 10.04.2021\\01. Structure_Skeleton\\AquaShop\\AquaShop.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\alexivanov2003\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\alexivanov2003\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\alexivanov2003\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
-    "C:\\Users\\alexivanov2003\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+    "C:\\Users\\alexi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\alexi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\alexi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\alexi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
   ],
   "logs": []
 }
