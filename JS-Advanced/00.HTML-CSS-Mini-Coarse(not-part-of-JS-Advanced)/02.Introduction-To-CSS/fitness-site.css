@@ -1,0 +1,63 @@
+body {
+    background-color: whitesmoke;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header nav ul {
+    text-align: right;
+}
+
+header nav ul li {
+    display: inline-block;
+    padding: 0 10px;
+}
+
+header nav ul li a {
+    color: #F9690E;
+    text-align: center;
+    text-decoration: none;
+}
+
+main section:nth-child(1) {
+    background-image: url(../02.Introduction-To-CSS/fitness-site.jpg);
+    color: white;
+    padding: 14rem;
+    background-size: cover;
+    background-position: center;
+}
+
+main section:nth-child(1) p {
+    float: left;
+    color: #F9690E;
+    margin-top: -256px;
+}
+
+main section:nth-child(1) span {
+    color: #F9690E;
+}
+
+main section:nth-child(1) button {
+    color: white;
+    padding: 20px;
+    background-color: #F9690E;
+    border: none;
+    font-size: x-large;
+}
+
+main section:nth-child(2) article {
+    display: inline-block;
+    width: 29%;
+    padding: 23px;
+    background-color: #F9690E;
+
+}
+main section:nth-child(2) article h3 {
+text-align: center;
+color: white;
+font-weight: bold;
+}
+
+footer article:nth-child(2) {
+    text-align: right;
+    color: black;
+}
