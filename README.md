@@ -37,7 +37,7 @@
 
 | **Course**                                                                                  | **Link**                                                                    |
 | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| <a href="#"> JS Advanced </a>          | <a href="#"> Soon... </a> |
+| <a href="#"> JS Advanced </a>          | <a href="https://softuni.bg/certificates/details/108126/51751be0"> Link </a> |
 | <a href="#"> JS Applications </a> | <a href="#"> Soon... </a> |
 
 </td>
